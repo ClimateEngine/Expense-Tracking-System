@@ -181,9 +181,7 @@ Efficiently stores and manages:
 
 # 📸 Web Module Preview
 
-
 ![Add Update](https://github.com/ClimateEngine/Expense-Tracking-System/blob/main/Web%20Module%20Preview.png)
-
 
 # 📊 Key KPIs
 
