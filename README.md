@@ -181,55 +181,9 @@ Efficiently stores and manages:
 
 # 📸 Web Module Preview
 
-> 📌 Replace the placeholders below with your own screenshots once added to an `assets/` folder.
 
-## ➕ Add / Update Expenses
+![Add Update](https://github.com/ClimateEngine/Expense-Tracking-System/blob/main/Web%20Module%20Preview.png)
 
-```text
-assets/add_update.png
-```
-
----
-
-## 📊 Category Analytics
-
-```text
-assets/category_analytics.png
-```
-
----
-
-## 📈 Monthly Analytics
-
-```text
-assets/monthly_analytics.png
-```
-
-<details>
-
-<summary><strong>📌 How to add your screenshots (Click to Expand)</strong></summary>
-
-1. Run the application locally.
-2. Take screenshots of each module.
-3. Create a folder named **assets/** in the project root.
-4. Save your screenshots using the filenames shown above.
-5. Replace the code blocks with image links like:
-
-```markdown
-![Add Update](assets/add_update.png)
-```
-
-Finally, commit your changes:
-
-```bash
-git add assets/
-git commit -m "Add application screenshots"
-git push
-```
-
-</details>
-
----
 
 # 📊 Key KPIs
 
