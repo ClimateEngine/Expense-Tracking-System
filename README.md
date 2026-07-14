@@ -185,7 +185,7 @@ Efficiently stores and manages:
 
 # 📊 Key KPIs
 
-The application provides valuable financial insights including:
+The application provides valuable financial insights including: 
 
 - 💰 Total expenses by category
 - 📊 Category-wise spending percentage
